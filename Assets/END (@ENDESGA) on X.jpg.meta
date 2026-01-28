@@ -1,0 +1,1983 @@
+fileFormatVersion: 2
+guid: 9fef949260a77ca4f9c90f514e28e2d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7745595899961830029
+    second: END (@ENDESGA) on X_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a62fede62ed7b60800000000000000
+      internalID: 7745595899961830029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287999b5d4a8e3a4c83aa422c9840850
+      internalID: -1349943641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa5cf7be4a60749a27993962852d8b
+      internalID: -1631311215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed997d32e743e42aceda501df56ac5
+      internalID: -2662968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d356822ac911640957a62c6774eb36
+      internalID: -493231976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eedb2499f7d334496566989ee5fda2
+      internalID: 880034909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322dbecaa4938e248bbf5cb41062055f
+      internalID: 2091777244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88783462bf4ded4458ef92c391c01806
+      internalID: -1951920301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 531
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e29a84e5e2834d920bdda2c6de2be
+      internalID: -1674176289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab115db7cee82348aa4c38ae2ba7385
+      internalID: -1097072158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5b1c34faa92e4f8be9c7559fb922e
+      internalID: -966504861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc258b23781ee4f8072fd9f1ced045
+      internalID: -315015369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff43913bb6a1c7b4fa69a06f741fb36c
+      internalID: 608328556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cca099fad7ef244c81540a4eb789236
+      internalID: -1449099857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd14aca31f3e6c499281e2af146554e
+      internalID: -934823604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d7a542cca24a4582258cfe076e199
+      internalID: 86809596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08318670ff08834da6638eea43412b1
+      internalID: -635275198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62800e4d1bbecd43846a47480ab17f1
+      internalID: 1197453907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d70726f4fb93f4a925d484dbe6d6a1
+      internalID: -1769504489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f15e230686cf748b8691042421e283
+      internalID: 1031323508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd6848c55f2b346a40247d38a132da
+      internalID: -135594914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a7bd8f726dd545b0861f32bf0270c
+      internalID: 1996389475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94eeb5f75601f244a02b01503c2a119
+      internalID: 974145312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40992a0ae972aac4c826c4505fd34d3a
+      internalID: -410908253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602432a253bc96b4987085286eb11bfc
+      internalID: -1801241768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dc856c45180ef43924d5ddb42ea1fe
+      internalID: -356571642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9deb0a4bbd0f040bd8d7e0253a4fcc
+      internalID: -1932697201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7259f329f78eaa44899c0c1971368ad
+      internalID: 340372022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010057985f31294296e83cbb67b3b72
+      internalID: 344539511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0caf004574a5b14c9ae7e882bc10c8e
+      internalID: 2061222920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c422c0aac5c9b4a8881534ba1a56b8
+      internalID: -1771804191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97083fb8bfc1fbf4e84e17df88b73d83
+      internalID: -90944480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95e3d65f5390446b78834b67893ea9
+      internalID: -2069360069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b9073e982ade40a8355a16402f780
+      internalID: -580403764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc58367d1bb0c74b90abcbf6e780c58
+      internalID: -1087568968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88c213087f601489a784dc7b8d0760
+      internalID: 526049780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2947e43f37d00c4f8c453c1ba52b255
+      internalID: -1650460253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1729e0f6dd73f84b83f78fbfbb1e264
+      internalID: 1996205559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef230ae08d33f248a492dbf51cfc693
+      internalID: -756652774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fab98e405000545b37cb7eb0b59e4d
+      internalID: 751456704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13fe43e4b5435d4a97b7f127657266b
+      internalID: 309362615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6da73c6e3a8f4cbbb6a0b73165d65
+      internalID: 1474190672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010084c93fdc0764199b492df0a726ad
+      internalID: 1901923281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15afff510c191ed4ab65f334103d099f
+      internalID: -1806206938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a46c4df0d66b31409a19dd2aefb2416
+      internalID: -1625070018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2711078ce98241aa7ad1eb3ee155c
+      internalID: 1677768319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e46bd77be1ecf642abc8525c04e038a
+      internalID: -177724564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a6deaca33a7534dbc38cae8ad75b9e
+      internalID: 1960555225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4d66fe314625f408285dd056ad5dc4
+      internalID: -933440986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f027c0670a774183c3183891a5fce
+      internalID: -2005991106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c63e91262877e44db5a81f2e4944d73
+      internalID: -2030936066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1bb1da9e7c5ca4889feef0659d1bab
+      internalID: 1244560438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018041c75a006e84a87b4ba13316d016
+      internalID: 679837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43f727769a66af4796b12b1ccd0394d
+      internalID: -943790298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629dd5399258766489072b5012e8c984
+      internalID: -529470330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a6d0d282ad62409306eb1343993f2
+      internalID: 2074895487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bbffc073f0444fa989c1bf3fadada
+      internalID: -719826479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c5648111cc1948b4e0ba346137ae0
+      internalID: 1074576452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5934155891637a1439809044ea864b24
+      internalID: -971560559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814821efb2151041a994a8ded38d081
+      internalID: -1351023375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df8b9c370aa84c4cbb6f4e6d1988804
+      internalID: -361706004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dded1117aa21584e8d580090c5e371b
+      internalID: -689132747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1b0a9c7bdf0649b97ecb7e3caaf43
+      internalID: -123992792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc0d4f835417a4f82fabf0cd4f82fd
+      internalID: 463636188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf8da348a0a3d040ac975ccb091f994
+      internalID: 1335381443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b8643ef9d74e4fb43c36dd7da5b5f
+      internalID: -1974746171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d46b100bd505d242a4cc1ae0ba5381e
+      internalID: -1438136308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c6f11ae0a1414bbaa64f182443b55
+      internalID: -457996962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72ca9f7635ac704bba08d507c0479de
+      internalID: 1671990069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e83491e5eaa6d4c84d476b2d5e52ec
+      internalID: -498167699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb1a17746d12741949ed0a0e3b0f30
+      internalID: -768026685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 83
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2477fee49e5e74d8d6ba23de11d32e
+      internalID: -1633526387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ae3f06f829dd49a74c500f7e7c85a
+      internalID: 386179403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc63cfd67360904bbf8c84310ccca58
+      internalID: 1896512266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe85cbe22e827e4299a129a0d7ea290
+      internalID: 267710015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6787681cb1894d9ef86009bfe7853
+      internalID: 343437099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593011e5c5bb5114fa26187115b9d374
+      internalID: 517729887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3377840b1dc9a4e9fb1bd82d41f8a3
+      internalID: 1773295889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe267551f67f74f98c5ebeaddce210
+      internalID: 1589704388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aee0bdf3ad85947ad705378da6e0c5
+      internalID: -1170983817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: END (@ENDESGA) on X_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 19
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f57d8f2ee145428bdefcf612a1f8c
+      internalID: -1185214022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: beb904a24862c3847bd327c642ea6895
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      END (@ENDESGA) on X_0: 7745595899961830029
+      END (@ENDESGA) on X_1: -1349943641
+      END (@ENDESGA) on X_10: -966504861
+      END (@ENDESGA) on X_11: -315015369
+      END (@ENDESGA) on X_12: 608328556
+      END (@ENDESGA) on X_13: -1449099857
+      END (@ENDESGA) on X_14: -934823604
+      END (@ENDESGA) on X_15: 86809596
+      END (@ENDESGA) on X_16: -635275198
+      END (@ENDESGA) on X_17: 1197453907
+      END (@ENDESGA) on X_18: -1769504489
+      END (@ENDESGA) on X_19: 1031323508
+      END (@ENDESGA) on X_2: -1631311215
+      END (@ENDESGA) on X_20: -135594914
+      END (@ENDESGA) on X_21: 1996389475
+      END (@ENDESGA) on X_22: 974145312
+      END (@ENDESGA) on X_23: -410908253
+      END (@ENDESGA) on X_24: -1801241768
+      END (@ENDESGA) on X_25: -356571642
+      END (@ENDESGA) on X_26: -1932697201
+      END (@ENDESGA) on X_27: 340372022
+      END (@ENDESGA) on X_28: 344539511
+      END (@ENDESGA) on X_29: 2061222920
+      END (@ENDESGA) on X_3: -2662968
+      END (@ENDESGA) on X_30: -1771804191
+      END (@ENDESGA) on X_31: -90944480
+      END (@ENDESGA) on X_32: -2069360069
+      END (@ENDESGA) on X_33: -580403764
+      END (@ENDESGA) on X_34: -1087568968
+      END (@ENDESGA) on X_35: 526049780
+      END (@ENDESGA) on X_36: -1650460253
+      END (@ENDESGA) on X_37: 1996205559
+      END (@ENDESGA) on X_38: -756652774
+      END (@ENDESGA) on X_39: 751456704
+      END (@ENDESGA) on X_4: -493231976
+      END (@ENDESGA) on X_40: 309362615
+      END (@ENDESGA) on X_41: 1474190672
+      END (@ENDESGA) on X_42: 1901923281
+      END (@ENDESGA) on X_43: -1806206938
+      END (@ENDESGA) on X_44: -1625070018
+      END (@ENDESGA) on X_45: 1677768319
+      END (@ENDESGA) on X_46: -177724564
+      END (@ENDESGA) on X_47: 1960555225
+      END (@ENDESGA) on X_48: -933440986
+      END (@ENDESGA) on X_49: -2005991106
+      END (@ENDESGA) on X_5: 880034909
+      END (@ENDESGA) on X_50: -2030936066
+      END (@ENDESGA) on X_51: 1244560438
+      END (@ENDESGA) on X_52: 679837196
+      END (@ENDESGA) on X_53: -943790298
+      END (@ENDESGA) on X_54: -529470330
+      END (@ENDESGA) on X_55: 2074895487
+      END (@ENDESGA) on X_56: -719826479
+      END (@ENDESGA) on X_57: 1074576452
+      END (@ENDESGA) on X_58: -971560559
+      END (@ENDESGA) on X_59: -1351023375
+      END (@ENDESGA) on X_6: 2091777244
+      END (@ENDESGA) on X_60: -361706004
+      END (@ENDESGA) on X_61: -689132747
+      END (@ENDESGA) on X_62: -123992792
+      END (@ENDESGA) on X_63: 463636188
+      END (@ENDESGA) on X_64: 1335381443
+      END (@ENDESGA) on X_65: -1974746171
+      END (@ENDESGA) on X_66: -1438136308
+      END (@ENDESGA) on X_67: -457996962
+      END (@ENDESGA) on X_68: 1671990069
+      END (@ENDESGA) on X_69: -498167699
+      END (@ENDESGA) on X_7: -1951920301
+      END (@ENDESGA) on X_70: -768026685
+      END (@ENDESGA) on X_71: -1633526387
+      END (@ENDESGA) on X_72: 386179403
+      END (@ENDESGA) on X_73: 1896512266
+      END (@ENDESGA) on X_74: 267710015
+      END (@ENDESGA) on X_75: 343437099
+      END (@ENDESGA) on X_76: 517729887
+      END (@ENDESGA) on X_77: 1773295889
+      END (@ENDESGA) on X_78: 1589704388
+      END (@ENDESGA) on X_79: -1170983817
+      END (@ENDESGA) on X_8: -1674176289
+      END (@ENDESGA) on X_80: -1185214022
+      END (@ENDESGA) on X_9: -1097072158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
