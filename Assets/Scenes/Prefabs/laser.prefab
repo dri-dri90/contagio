@@ -129,5 +129,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 4238783269257905023}
-  velocidadeX: 5
+  velocidadeX: 2
   vaiParaDireita: 1

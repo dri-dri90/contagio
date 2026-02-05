@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     // ===== TIRO =====
     public Laser laserPrefab;
+    public float tempoEsperaTiro;
     private float intervaloTiro;
 
     // ===== MOVIMENTO =====
@@ -28,7 +29,7 @@ public class Player : MonoBehaviour
         // ===== CONTROLE DE TIRO =====
         intervaloTiro += Time.deltaTime;
 
-        if (intervaloTiro >= 1f)
+        if (intervaloTiro >= this.tempoEsperaTiro)
         {
             intervaloTiro = 0f;
             Atirar();
