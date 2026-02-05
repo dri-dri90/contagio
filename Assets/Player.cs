@@ -3,7 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour
+
+public Laser laserPrefab;
+private float intervalotiro;
+
+
+void Start()
 {
+   this.intervaloTiro = 0;
+}
+
+void Update()
+
+    this.intervaloTiro += Time.deltaTime;
+    if (this.intervaloTiro >=1f) {
+      this.intervaloTiro 
+      Atirar()
+    }
+
+{    
   public float velocidade = 10f;
   public float focaPulo = 10f;
 
@@ -64,8 +82,9 @@ public class Player : MonoBehaviour
             Debug.Log("Jump");
         }
 
-     
-
+     private void Atirar() {
+      instantiate(this.laserPrefab, this.transform.position, Quaternion.identily);
+     }
 
     }
 }
