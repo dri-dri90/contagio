@@ -3,45 +3,60 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour
-
-public Laser laserPrefab;
-private float intervalotiro;
-
-
-void Start()
 {
-   this.intervaloTiro = 0;
-}
+    // ===== TIRO =====
+    public Laser laserPrefab;
+    private float intervaloTiro;
 
-void Update()
-
-    this.intervaloTiro += Time.deltaTime;
-    if (this.intervaloTiro >=1f) {
-      this.intervaloTiro 
-      Atirar()
-    }
-
-{    
-  public float velocidade = 10f;
-  public float focaPulo = 10f;
-
+    // ===== MOVIMENTO =====
+    public float velocidade = 10f;
+    public float forcaPulo = 10f;
     public bool noChao = false;
-  
 
-  private Rigidbody2D _rigidbody2D;
-  private SpriteRenderer  spriteRenderer; 
+    private Rigidbody2D _rigidbody2D;
+    private SpriteRenderer spriteRenderer;
 
-    // Start is called before the first frame update
     void Start()
     {
-        _rigidbody2D = gameObject.GetComponent<Rigidbody2D>();
-        spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+        intervaloTiro = 0f;
+        _rigidbody2D = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-
-   void OnCollisionStay2D(Collision2D collision)
+    void Update()
     {
-        if (collision.gameObject.tag == "chao")
+        // ===== CONTROLE DE TIRO =====
+        intervaloTiro += Time.deltaTime;
+
+        if (intervaloTiro >= 1f)
+        {
+            intervaloTiro = 0f;
+            Atirar();
+        }
+
+        // ===== MOVIMENTO =====
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.position += new Vector3(-velocidade * Time.deltaTime, 0, 0);
+            spriteRenderer.flipX = true;
+        }
+
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            transform.position += new Vector3(velocidade * Time.deltaTime, 0, 0);
+            spriteRenderer.flipX = false;
+        }
+
+        // ===== PULO =====
+        if (Input.GetKeyDown(KeyCode.Space) && noChao)
+        {
+            _rigidbody2D.AddForce(Vector2.up * forcaPulo, ForceMode2D.Impulse);
+        }
+    }
+
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("chao"))
         {
             noChao = true;
         }
@@ -49,42 +64,14 @@ void Update()
 
     void OnCollisionExit2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "chao")
+        if (collision.gameObject.CompareTag("chao"))
         {
             noChao = false;
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Atirar()
     {
-      if(Input.GetKey(KeyCode.LeftArrow))
-      {
-        gameObject.transform.position += new Vector3(-velocidade*Time.deltaTime,0,0);
-        //rigidbody2D.AddForce(new Vector2(-velocidade,0));
-        spriteRenderer.flipX = true;
-        Debug.Log("LeftArrow");
-      }
-        
-
-      if(Input.GetKey(KeyCode.RightArrow))
-      {
-        gameObject.transform.position += new Vector3(velocidade*Time.deltaTime,0,0);
-        //rigidbody2D.AddForce(new Vector2(velocidade,0));
-         spriteRenderer.flipX = false;
-         Debug.Log("RightArrow");
-      }
-
-        if (Input.GetKeyDown(KeyCode.Space) && noChao == true)
-        {
-            _rigidbody2D.AddForce(new Vector2(0, 1) * focaPulo,ForceMode2D.Impulse);
-
-            Debug.Log("Jump");
-        }
-
-     private void Atirar() {
-      instantiate(this.laserPrefab, this.transform.position, Quaternion.identily);
-     }
-
+        Instantiate(laserPrefab, transform.position, Quaternion.identity);
     }
 }

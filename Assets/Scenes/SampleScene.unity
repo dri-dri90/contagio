@@ -750,7 +750,7 @@ GameObject:
   - component: {fileID: 267945775}
   - component: {fileID: 267945774}
   m_Layer: 0
-  m_Name: bala
+  m_Name: laser
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
