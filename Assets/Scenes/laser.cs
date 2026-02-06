@@ -5,12 +5,20 @@ using UnityEngine;
 public class Laser : MonoBehaviour
 {
     public Rigidbody2D rigidbody;
-    public float velocidadeX = 5f;
-    public bool vaiParaDireita = true;
+    public float velocidadeY;
 
+    // Start is called before the first frame update
     void Start()
     {
-        float direcao = vaiParaDireita ? 1f : -1f;
-        rigidbody.linearVelocity = new Vector2(velocidadeX * direcao, 0);
+        this.rigidbody.linearVelocity = new Vector2(this.velocidadeY,0);
+    }
+
+    public void OnTriggerEnter2D(Collider2D collider) {
+        if (collider.CompareTag("Inimigo")) {
+            // Destrói o inimigo
+            Destroy(collider.gameObject);
+            // Destrói o próprio laser
+            Destroy(this.gameObject);
+        }
     }
 }

@@ -19,21 +19,13 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-        intervaloTiro = 0f;
         _rigidbody2D = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
-        // ===== CONTROLE DE TIRO =====
-        intervaloTiro += Time.deltaTime;
-
-        if (intervaloTiro >= this.tempoEsperaTiro)
-        {
-            intervaloTiro = 0f;
-            Atirar();
-        }
+        if(Input.GetKeyDown(KeyCode.Space)) Atirar();
 
         // ===== MOVIMENTO =====
         if (Input.GetKey(KeyCode.LeftArrow))
