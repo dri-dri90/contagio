@@ -29,8 +29,8 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        // Atirar no Espaço
-        if(Input.GetKeyDown(KeyCode.Space)) Atirar();
+        // Atirar no z
+       if(Input.GetKeyDown(KeyCode.Z)) Atirar();
 
         float movimentoH = 0;
 

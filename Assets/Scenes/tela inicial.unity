@@ -559,8 +559,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0.000030517578, y: 153.50002}
-  m_SizeDelta: {x: 0.000061035, y: 307}
+  m_AnchoredPosition: {x: 0.000030517578, y: 168.00002}
+  m_SizeDelta: {x: 0.0001, y: 336}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341312474
 MonoBehaviour:
@@ -610,6 +610,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1345439666}
   - component: {fileID: 1345439667}
+  - component: {fileID: 1345439668}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -642,6 +643,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a976aaa2dc7f5eb4582219c9b42c019e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1345439668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345439664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3612ece64b70e146b1a705e03c2435f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2031645027
