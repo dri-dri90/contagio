@@ -6,13 +6,14 @@ public class Player : MonoBehaviour
 {
     // ===== TIRO =====
     public Laser laserPrefab;
-    public float tempoEsperaTiro;
-    private float intervaloTiro;
-
-    // ===== MOVIMENTO =====
+    
+    // ===== MOVIMENTO E ANIMAÇÃO =====
     public float velocidade = 10f;
     public float forcaPulo = 10f;
     public bool noChao = false;
+
+    // Linha 9: Referência para o Animator
+    [SerializeField] private Animator _animator; 
 
     private Rigidbody2D _rigidbody2D;
     private SpriteRenderer spriteRenderer;
@@ -21,27 +22,45 @@ public class Player : MonoBehaviour
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        
+        // Tenta pegar o Animator automaticamente se não foi arrastado no Inspector
+        if (_animator == null) _animator = GetComponent<Animator>(); 
     }
 
     void Update()
     {
+        // Atirar no Espaço
         if(Input.GetKeyDown(KeyCode.Space)) Atirar();
 
-        // ===== MOVIMENTO =====
+        float movimentoH = 0;
+
+        // ===== MOVIMENTO ESQUERDA =====
         if (Input.GetKey(KeyCode.LeftArrow))
         {
+            movimentoH = -1;
             transform.position += new Vector3(-velocidade * Time.deltaTime, 0, 0);
             spriteRenderer.flipX = true;
         }
-
-        if (Input.GetKey(KeyCode.RightArrow))
+        // ===== MOVIMENTO DIREITA =====
+        else if (Input.GetKey(KeyCode.RightArrow))
         {
+            movimentoH = 1;
             transform.position += new Vector3(velocidade * Time.deltaTime, 0, 0);
             spriteRenderer.flipX = false;
         }
 
-        // ===== PULO =====
-        if (Input.GetKeyDown(KeyCode.Space) && noChao)
+        // ===== CONTROLE DA ANIMAÇÃO (LINHAS 61 a 66 das fotos) =====
+        if (movimentoH != 0) 
+        {
+            _animator.SetBool("isRunning", true); 
+        }
+        else 
+        {
+            _animator.SetBool("isRunning", false); 
+        }
+
+        // ===== PULO (Ajustado para tecla 'W' para não conflitar com Tiro) =====
+        if (Input.GetKeyDown(KeyCode.W) && noChao)
         {
             _rigidbody2D.AddForce(Vector2.up * forcaPulo, ForceMode2D.Impulse);
         }
@@ -49,6 +68,7 @@ public class Player : MonoBehaviour
 
     void OnCollisionStay2D(Collision2D collision)
     {
+        // Verifica se está tocando no chão (Tag precisa ser "chao")
         if (collision.gameObject.CompareTag("chao"))
         {
             noChao = true;
